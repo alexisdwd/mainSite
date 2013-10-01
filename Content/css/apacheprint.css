@@ -1,0 +1,77 @@
+﻿html {color:#000; background:#FFF;}
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td {margin:0; padding:0;}
+table {border-collapse:collapse; border-spacing:0;}
+fieldset,img {border:0;}
+address,caption,cite,code,dfn,em,strong,th,var {font-style:normal; font-weight:normal;}
+li {list-style:none;}
+caption,th {text-align:left;}
+h1,h2,h3,h4,h5,h6 {font-size:100%; font-weight:normal;}
+q:before,q:after {content:'';}
+abbr,acronym {border:0; font-variant:normal;}
+sup {vertical-align:text-top;}
+sub {vertical-align:text-bottom;}
+input,textarea,select {font-family:inherit; font-size:inherit; font-weight:inherit;}
+input,textarea,select {*font-size:100%;}
+legend {color:#000;}
+code {display:inline;text-indent:3px;}
+h1 {font-size:138.5%;}
+h2 {font-size:123.1%;}
+h3 {font-size:108%;}
+h1,h2,h3 {margin:1em 0;}
+h1,h2,h3,h4,h5,h6,strong {font-weight:bold;}
+abbr,acronym {border-bottom:1px dotted #000; cursor:help;}
+em {font-style:italic;}
+blockquote,ul,ol,dl {margin:1em;}
+ol,ul,dl {margin-left:2em;}
+ol li {list-style:decimal outside;}
+ul li {list-style:disc outside;}
+dl dd {margin-left:1em;}
+th,td {border:1px solid #000; padding:.5em;}
+th {font-weight:bold; text-align:center;}
+caption {margin-bottom:.5em; text-align:center;}
+p,fieldset,table,pre {margin-bottom:1em;}
+input[type=text],input[type=password],textarea {width:12.25em; *width:11.9em;}
+
+html,body {background-color:#FFF; color:#000; font-size: 10pt;}
+pre {page-break-inside: avoid; font-size: 7pt !important; max-width:95% !important; overflow-x: auto; /* Use horizontal scroller if needed; for Firefox 2, not needed in Firefox 3 */ white-space: pre-wrap; /* css-3 */ white-space: -moz-pre-wrap !important; /* Mozilla, since 1999 */ white-space: -pre-wrap; /* Opera 4-6 */ white-space: -o-pre-wrap; /* Opera 7 */ /* width: 99%; */ word-wrap: break-word; /* Internet Explorer 5.5+ */}
+img	{max-width: 100%;}
+h1,h2,h3,h4,h5,h6 {page-break-after: avoid;}
+ul, ol, li {page-break-inside: avoid;}
+table table,tr,td {page-break-before: avoid;page-break-after: avoid;}
+
+#GlobalW,
+#content,
+#htaccess {width:auto !important; height:auto !important; overflow:visible !important; background:transparent !important; background-image:none !important; padding:0 !important; margin:0 !important; float:none !important; font-family:Verdana,Helvetica,Arial,sans-serif;}
+
+.item {width:auto !important; height:100% !important; overflow:visible !important; float:none !important;}
+.post-content {width:auto !important; height:auto !important; float:none !important;}
+#ContentW .post-content {width:90% !important;padding:0 6% 0 0 !important;max-width:100% !important;margin:0 auto !important;}
+
+
+
+.C {clear:both; padding:0; margin:0; line-height:5px; font-size:10px; border-bottom-width:0px;}
+#content .post-content h2 {margin-top:1em;}
+body #GlobalW #htaccess #content h1#sing {margin:0; width:100%; padding:0;}
+#content .item {padding:0; margin:0;}
+#content .commentlist li,#content .commentlist li.alt {margin:0.25em;}
+
+body #GlobalW #htaccess #HeadW,#HeadW,
+body #GlobalW #htaccess #NavM,#HeadW,
+body #GlobalW #htaccess #FootW,#FootW,
+body #GlobalW #htaccess #simg,#simg,
+body #GlobalW #htaccess #BTNfs,#BTNfs,
+body #GlobalW #htaccess #sidebar,#sidebar,
+body #GlobalW #htaccess #content #pagebar,#pagebar,
+body #GlobalW #htaccess #content #digg,#digg,
+body #GlobalW #htaccess #content #bcomme,#bcomme,
+body #GlobalW #htaccess #content #comments,#comments,
+body #GlobalW #htaccess #content #related1p,#related1p,
+body #GlobalW #htaccess #content .rnote,
+body #GlobalW #htaccess .flef,.flef,
+body #GlobalW #htaccess #content #npl,#npl {display:none !important;}
+
+body #GlobalW #htaccess #searchbox_002660089121042511758:kk7rwc2gx0i,#searchbox_002660089121042511758:kk7rwc2gx0i,
+body #GlobalW #htaccess form#searchbox_002660089121042511758:kk7rwc2gx0i,form#searchbox_002660089121042511758:kk7rwc2gx0i,
+body #GlobalW #htaccess #snaptalent,#snaptalent,
+body #GlobalW #htaccess h2.HAC {display:none !important;}
+
